@@ -17,10 +17,6 @@ The platform works both online (with Supabase PostgreSQL) and offline (using bro
 - **Buy & Sell** — Purchase or liquidate fund units through a simple transaction interface
 - **Performance Tracking** — See how your portfolio is growing with interactive charts and historical data
 
-### For Portfolio Managers
-- **Fund Oversight** — Manage your assigned funds and monitor their performance metrics
-- **NAV Updates** — Update daily Net Asset Value and key metrics (Sharpe ratio, Alpha, Beta)
-- **Holdings Management** — Adjust fund composition and track individual security positions
 
 ### For Administrators
 - **Dashboard** — Get a real-time overview of the entire system (total users, active funds, transaction volume, AUM)
