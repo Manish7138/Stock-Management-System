@@ -12,7 +12,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Stock Management System",
-  description: "Complete offline stock market platform",
+  description: "Complete offline Stock Management System platform",
   generator: "Stock Management System",
   icons: {
     icon: [

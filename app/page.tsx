@@ -59,7 +59,7 @@ export default function HomePage() {
             </span>
           </h1>
           <p className="mx-auto mb-8 max-w-2xl text-lg text-gray-600 dark:text-gray-400">
-            Comprehensive stock market platform for traders and administrators. Real-time analytics, secure
+            Comprehensive Stock Management System platform for traders and administrators. Real-time analytics, secure
             transactions, and powerful trading tools.
           </p>
           <div className="flex items-center justify-center gap-4">
@@ -138,7 +138,7 @@ export default function HomePage() {
       {/* Footer */}
       <footer className="border-t border-gray-200 bg-white py-8 dark:border-gray-800 dark:bg-gray-900">
         <div className="container mx-auto px-4 text-center text-sm text-gray-600 dark:text-gray-400">
-          <p>&copy; 2025 Stock Market. All rights reserved.</p>
+          <p>&copy; 2025 Stock Management System. All rights reserved.</p>
         </div>
       </footer>
     </div>
